@@ -1,1 +1,3 @@
-# 3d-reconstruction project
+# 3d-reconstruction 
+
+This project is a implementation of 3d-reconstruction SOTA algorithm
